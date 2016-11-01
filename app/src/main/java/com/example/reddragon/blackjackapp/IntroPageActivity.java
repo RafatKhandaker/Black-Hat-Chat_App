@@ -121,7 +121,7 @@ public class IntroPageActivity extends YouTubeBaseActivity implements YouTubePla
 
 }
 
-//---------------------------------------REPLACE INTO CLASS (OLD)-----------------------------------
+//---------------------------------------OLD (For Testing) REPLACE INTO CLASS -----------------------------------
 
 //    private YouTubePlayer.OnInitializedListener onInitializedListener;
 //

@@ -7,6 +7,7 @@ import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.widget.Button;
+import android.widget.EditText;
 
 import static com.example.reddragon.blackjackapp.IntroPageActivity.TAG;
 import static com.example.reddragon.blackjackapp.IntroPageActivity.checkGetStartedVal;
@@ -17,6 +18,7 @@ import static com.example.reddragon.blackjackapp.IntroPageActivity.checkLoginVal
  */
 
 public class FragmentActivity extends AppCompatActivity {
+
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
