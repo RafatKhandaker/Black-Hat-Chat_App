@@ -30,7 +30,7 @@ public class LoginFragment extends Fragment {
             emailTextView.setTextColor(500000);
             emailTextView.setText("! Error Email Format !");
 
-        }
+        }else{/* send data to server (sql database) */}
     }
 
     public boolean buildEmailTextlogic(EditText emailTextView, String emailText){
