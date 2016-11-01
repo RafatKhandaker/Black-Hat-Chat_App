@@ -3,129 +3,93 @@
 
     <item
         is-multidex="true"
-        jar="/Users/RedDragon/Desktop/localAppTest/BlackJackApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="/Users/RedDragon/Desktop/localAppTest/BlackJackApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_330cb3e3cbd41327d19370706e58d27d1a15ac44/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/RedDragon/Desktop/localAppTest/BlackJackApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="/Users/RedDragon/Desktop/localAppTest/BlackJackApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_e2f8530f0e995433b92de9c947f6e56ee5846790/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/RedDragon/Desktop/localAppTest/BlackJackApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="/Users/RedDragon/Desktop/localAppTest/BlackJackApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_15bf03a2be5b3e77a64ce72ac65a204faecea298/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/RedDragon/Desktop/localAppTest/BlackJackApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="/Users/RedDragon/Desktop/localAppTest/BlackJackApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_919afd72842cdd97bd10feb6dbbffe6082d5ffe9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/RedDragon/Desktop/localAppTest/BlackJackApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="bc4e1c453ea95b8564b75e6ff50d3fc96c57cfcc">
-        <dex dex="/Users/RedDragon/Desktop/localAppTest/BlackJackApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ae7790eb6d8d309ee4570f1e4618db9b65b7f1b1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/RedDragon/Desktop/localAppTest/BlackJackApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="/Users/RedDragon/Desktop/localAppTest/BlackJackApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_4875a2a9428cb681b3f83db08ac4758797b67128/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/RedDragon/Desktop/localAppTest/BlackJackApp/app/libs/YouTubeAndroidPlayerApi.jar"
+        jar="/Users/RedDragon/Desktop/localAppTest/BlackHatChatApp/app/libs/YouTubeAndroidPlayerApi.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
-        <dex dex="/Users/RedDragon/Desktop/localAppTest/BlackJackApp/app/build/intermediates/transforms/dex/debug/folders/1000/2/YouTubeAndroidPlayerApi_2af0dced8fc6f7a1ba8b8c9296d0b40dfdc6d7b9/classes.dex" />
+        <dex dex="/Users/RedDragon/Desktop/localAppTest/BlackHatChatApp/app/build/intermediates/transforms/dex/debug/folders/1000/2/YouTubeAndroidPlayerApi_44f5b3a06b226da0c7bb7e2ad7ce4878fe7021f3/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/RedDragon/Desktop/localAppTest/BlackJackApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jar="/Users/RedDragon/Desktop/localAppTest/BlackHatChatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/RedDragon/Desktop/localAppTest/BlackHatChatApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_055e37956928f8ca72f579a708d1d349db25a22f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/RedDragon/Desktop/localAppTest/BlackHatChatApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="/Users/RedDragon/Desktop/localAppTest/BlackJackApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_49acfac34827cf84512ae703081a288e48608caf/classes.dex" />
+        <dex dex="/Users/RedDragon/Desktop/localAppTest/BlackHatChatApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_1d658d7b085194858e07f95f7eef614a76582343/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/RedDragon/Desktop/localAppTest/BlackJackApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="/Users/RedDragon/Desktop/localAppTest/BlackJackApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_d7913baaa7589da91d73381eef7e107f06111d16/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/RedDragon/Desktop/localAppTest/BlackJackApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="/Users/RedDragon/Desktop/localAppTest/BlackJackApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_0a600ed4febdaa027378c7842906c13939bf208f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/RedDragon/Desktop/localAppTest/BlackJackApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/RedDragon/Desktop/localAppTest/BlackJackApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_09ce23600377877da8a60a2c6a2c4f60fdca6df9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/RedDragon/Desktop/localAppTest/BlackJackApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="/Users/RedDragon/Desktop/localAppTest/BlackJackApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_06ffcccf01d772712c122077a90fd9a0604ea2bc/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/RedDragon/Desktop/localAppTest/BlackJackApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="27ec036c9681684fbed2f8985ff9ffd2075ab593">
-        <dex dex="/Users/RedDragon/Desktop/localAppTest/BlackJackApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7121d78b0d06f06fdd6ef7d9cbdd9e32ff047131/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/RedDragon/Desktop/localAppTest/BlackJackApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jar="/Users/RedDragon/Desktop/localAppTest/BlackHatChatApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="/Users/RedDragon/Desktop/localAppTest/BlackJackApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_940567445a04b2585d9d761a33c8cedbfbcc415e/classes.dex" />
+        <dex dex="/Users/RedDragon/Desktop/localAppTest/BlackHatChatApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_efeb7d1c93a09894d6a2392134cb0610f157796f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/RedDragon/Desktop/localAppTest/BlackHatChatApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="17a939d5e251ef334335c43decf17ac43a8fe69a">
+        <dex dex="/Users/RedDragon/Desktop/localAppTest/BlackHatChatApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8ba9809cab52d49e6830a0d74ef56384e3575e8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/RedDragon/Desktop/localAppTest/BlackHatChatApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/RedDragon/Desktop/localAppTest/BlackHatChatApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_e17fd166d438970b9eb66d5a202414de98249786/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/RedDragon/Desktop/localAppTest/BlackHatChatApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/RedDragon/Desktop/localAppTest/BlackHatChatApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_7f72ca7e0f5fb699687973d99b7a34db1374050e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/RedDragon/Desktop/localAppTest/BlackHatChatApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/RedDragon/Desktop/localAppTest/BlackHatChatApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_6afa4575dc1174262a4c49c8a378895b5db9ba58/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/RedDragon/Desktop/localAppTest/BlackHatChatApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/RedDragon/Desktop/localAppTest/BlackHatChatApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_196fc548557d44ea9a32e6a75bf9a720b7a5c2fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/RedDragon/Desktop/localAppTest/BlackHatChatApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/RedDragon/Desktop/localAppTest/BlackHatChatApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_e37dcd8125ce0d3da70dd4241e74c477f899c715/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -134,34 +98,70 @@
         optimize="true"
         revision="24.0.3"
         sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="/Users/RedDragon/Desktop/localAppTest/BlackJackApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_7f523f7900cb1de9428c3ae2f79de12bf1ad2c24/classes.dex" />
+        <dex dex="/Users/RedDragon/Desktop/localAppTest/BlackHatChatApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_7f523f7900cb1de9428c3ae2f79de12bf1ad2c24/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/RedDragon/Desktop/localAppTest/BlackJackApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="/Users/RedDragon/Desktop/localAppTest/BlackJackApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_64afe2843539ccce0d3598cb72f1f916f96c0f00/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/RedDragon/Desktop/localAppTest/BlackJackApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jar="/Users/RedDragon/Desktop/localAppTest/BlackHatChatApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="/Users/RedDragon/Desktop/localAppTest/BlackJackApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_05338e9aa6cd72b8a271dc6341596d858141405e/classes.dex" />
+        <dex dex="/Users/RedDragon/Desktop/localAppTest/BlackHatChatApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_945043c549265ff8b93fb380f1fc57b260e738ba/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/RedDragon/Desktop/localAppTest/BlackJackApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jar="/Users/RedDragon/Desktop/localAppTest/BlackHatChatApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5c599eea2ff5dfb64371560f06b07020d83488d1">
+        <dex dex="/Users/RedDragon/Desktop/localAppTest/BlackHatChatApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3ba8f88492c38ec14a8ee89dda6a37faa5ce5630/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/RedDragon/Desktop/localAppTest/BlackHatChatApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/RedDragon/Desktop/localAppTest/BlackHatChatApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_f53253c52da6e2f56fc7d3dc1e34908d64b6976f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/RedDragon/Desktop/localAppTest/BlackHatChatApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/RedDragon/Desktop/localAppTest/BlackHatChatApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_25fc59ff997917cb3deafa97dd3df4086de0a5fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/RedDragon/Desktop/localAppTest/BlackHatChatApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/RedDragon/Desktop/localAppTest/BlackHatChatApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c8ede867e83725fc930762a8aa040b0b8289982d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/RedDragon/Desktop/localAppTest/BlackHatChatApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/RedDragon/Desktop/localAppTest/BlackHatChatApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_e5d2329a1f30e048d42766cb13c19a8cf2961962/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/RedDragon/Desktop/localAppTest/BlackHatChatApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="/Users/RedDragon/Desktop/localAppTest/BlackJackApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_5fe7edb2ecb97452b26979db46822eebaf36d977/classes.dex" />
+        <dex dex="/Users/RedDragon/Desktop/localAppTest/BlackHatChatApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_29ebcf177e005ec5babfe47fed32d1396d613283/classes.dex" />
     </item>
 
 </items>

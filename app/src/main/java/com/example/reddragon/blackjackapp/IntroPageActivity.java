@@ -4,8 +4,6 @@ import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
-import android.view.Window;
-import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.Toast;
 import com.example.reddragon.blackjackapp.configuration.config;
@@ -16,9 +14,11 @@ import com.google.android.youtube.player.YouTubePlayerView;
 
 /**
  * Created by RedDragon on 10/26/16.
+ *
+ * to bypass youtube player , click on the side of the screen
  */
 
-public class IntroPageActivity extends YouTubeBaseActivity implements YouTubePlayer.OnInitializedListener{
+public class IntroPageActivity extends YouTubeBaseActivity implements YouTubePlayer.OnInitializedListener {
 
 
     private static final int RECOVERY_DIALOG_REQUEST = 1;
@@ -35,14 +35,15 @@ public class IntroPageActivity extends YouTubeBaseActivity implements YouTubePla
         Button login = (Button) findViewById(R.id.btn_Login);
         Button getStarted = (Button) findViewById(R.id.btn_Start);
 
-        startYoutube();
-
         login.setOnClickListener(buildLoginListener());
         getStarted.setOnClickListener(buildGetStartedlistener());
-    }
 
-    public View.OnClickListener buildLoginListener(){
-        return new View.OnClickListener(){
+        startYoutube();
+    }
+    // --------------------------------- Build On Click Listener -----------------------------------
+
+    public View.OnClickListener buildLoginListener() {
+        return new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 checkLoginVal = true;
@@ -51,8 +52,8 @@ public class IntroPageActivity extends YouTubeBaseActivity implements YouTubePla
         };
     }
 
-    public View.OnClickListener buildGetStartedlistener(){
-        return new View.OnClickListener(){
+    public View.OnClickListener buildGetStartedlistener() {
+        return new View.OnClickListener() {
 
             @Override
             public void onClick(View v) {
@@ -62,14 +63,13 @@ public class IntroPageActivity extends YouTubeBaseActivity implements YouTubePla
         };
     }
 
-    public void launchFragmentActivity(Context context){
+    public void launchFragmentActivity(Context context) {
         Intent intent = new Intent(context, FragmentActivity.class);
         context.startActivity(intent);
     }
 
 
-
-// ---------------------------------------YOUTUBE OVERRIDE METHODS-----------------------------------------------
+    // ---------------------------------------YOUTUBE OVERRIDE METHODS------------------------------
     @Override
     public void onInitializationFailure(YouTubePlayer.Provider provider, YouTubeInitializationResult errorReason) {
         if (errorReason.isUserRecoverableError()) {
@@ -102,16 +102,16 @@ public class IntroPageActivity extends YouTubeBaseActivity implements YouTubePla
         }
     }
 
-//---------------------------------------------YOUTUBE METHODS --------------------------------------
+//---------------------------------------------YOUTUBE METHODS -------------------------------------
 
     private YouTubePlayer.Provider getYouTubePlayerProvider() {
         return (YouTubePlayerView) findViewById(R.id.vv_anon_vid);
     }
 
-    public void startYoutube(){
-        requestWindowFeature(Window.FEATURE_NO_TITLE);
-        getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,
-                WindowManager.LayoutParams.FLAG_FULLSCREEN);
+    public void startYoutube() {
+//        requestWindowFeature(Window.FEATURE_NO_TITLE);
+//        getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,
+//                WindowManager.LayoutParams.FLAG_FULLSCREEN);
 
         youTubeView = (YouTubePlayerView) findViewById(R.id.vv_anon_vid);
 
@@ -121,9 +121,9 @@ public class IntroPageActivity extends YouTubeBaseActivity implements YouTubePla
 
 }
 
-//---------------------------------------REPLACE INTO CLASS (OLD)------------------------
+//---------------------------------------REPLACE INTO CLASS (OLD)-----------------------------------
 
-// private YouTubePlayer.OnInitializedListener onInitializedListener;
+//    private YouTubePlayer.OnInitializedListener onInitializedListener;
 //
 //    @Override
 //    protected void onCreate(Bundle savedInstanceState) {
@@ -143,6 +143,8 @@ public class IntroPageActivity extends YouTubeBaseActivity implements YouTubePla
 //            }
 //        };
 //
+////        youTubeView.initialize(config.DEVELOPER_KEY, onInitializedListener);
+//
 //
 //        Button b = (Button) findViewById(R.id.btn_Login);
 //        b.setOnClickListener(new View.OnClickListener() {
@@ -153,3 +155,5 @@ public class IntroPageActivity extends YouTubeBaseActivity implements YouTubePla
 //            }
 //        });
 //    }
+//
+//}
